@@ -1,7 +1,8 @@
 # UFO Sightings Analysis
 
 ## Overview of the Analysis
-The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. The web page now includes filters for the date, city, state, and etc... allowing users to perform a more refined search based on specific criteria. The goal is to make it easier for users to analyze the UFO sightings data and to gain insights into these occurrences.
+The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filtemultiple criteria at the same time. The web page now includes filters for the date, city, state, and etc... allowing users to perform a more refined search based on specific criteria. The goal is to make it easier for users to analyze the UFO sightings data and to gain insights into these occurrences.
+=
 
 ### Results
 To perform a search users enter their desired filter values in the corresponding input fields. The available filters include "Date," "City," "State," "Country," and "Shape." After entering the filter criteria, users can press "Enter" or click the "Filter" button to apply the filters and update the table accordingly. 
@@ -13,6 +14,7 @@ Step 2: Press "Enter" or Click "Filter" Button
 Apply Filters
 
 The user can enter a specific date, city, state, country, or shape in the corresponding input fields. After pressing "Enter" or clicking the "Filter" button, the table will be updated to display only the UFO sightings data that matches the entered criteria.
+----
 
 ## Summary
 
