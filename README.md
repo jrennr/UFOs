@@ -29,4 +29,3 @@ Enhanced Date Filter: Instead of only allowing users to enter exact dates, an en
 These enhancements would make the UFO sightings analysis webpage more user-friendly and provide more informative visualizations for users to gain insights into UFO sightings.
 
 
-stackoverflow.com
