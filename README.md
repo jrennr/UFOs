@@ -7,11 +7,10 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 ### Results
 To perform a search users enter their desired filter values in the corresponding input fields. The available filters include "Date," "City," "State," "Country," and "Shape." After entering the filter criteria, users can press "Enter" or click the "Filter" button to apply the filters and update the table accordingly. 
 
-Step 1: Enter Filter Values
-Enter Filter Values
+First, they would enter Filter Values
 
-Step 2: Press "Enter" or Click "Filter" Button
-Apply Filters
+
+Next, they press "Enter" or Click the "Filter" Button, and Apply Filters
 
 The user can enter a specific date, city, state, country, or shape in the corresponding input fields. After pressing "Enter" or clicking the "Filter" button, the table will be updated to display only the UFO sightings data that matches the entered criteria.
 
