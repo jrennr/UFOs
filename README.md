@@ -4,4 +4,4 @@ A browser-based table of a static sightings dataset with filters for date, city,
 
 [Open the page](index.html) · [Filtering code](app.js) · [Data](data.js)
 
-Open `index.html` in a browser with internet access for the Bootstrap and D3 CDN assets. The data are reported sightings and do not verify the underlying events. Partial matching and date ranges are potential next steps.
+Open `index.html` in a browser with internet access for the Bootstrap and D3 CDN assets.
