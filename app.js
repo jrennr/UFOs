@@ -1,4 +1,3 @@
-// Static sightings explorer. All filters use exact, case-insensitive matches.
 const tableData = data;
 const tbody = d3.select("tbody");
 const filters = {};
@@ -35,3 +34,4 @@ function updateFilters() {
 
 d3.selectAll("input").on("change", updateFilters);
 buildTable(tableData);
+
